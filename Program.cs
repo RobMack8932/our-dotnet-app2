@@ -2,11 +2,11 @@
 
 namespace our_dotnet_app2
 {
-  class Program
-  {
-    static void Main(string[] args)
+    class Program
     {
-      Console.WriteLine("Hello, my name is Rob");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World, My name is Rob Mack");
+        }
     }
-  }
 }
